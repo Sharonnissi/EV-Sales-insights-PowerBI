@@ -33,35 +33,35 @@ Overall, the data shows that successful EV strategies depend on understanding wh
 ##  Visualizations & Insights
 
 ### 1. Which EV types are selling the most?
-![brand_vs_vehicle_type](visuals/brand_vs_vehicle_type.png)
+![brand_vs_vehicle_type](Visuals/Brand_vs_Vehicle_Type.png)
 
 > Hatchbacks top the list, with over 39,000 units sold — followed by Trucks (26,600) and SUVs (17,800). Brands like Hyundai and Toyota lead in hatchback and SUV sales. Coupes and sedans have more limited appeal, suggesting niche market interest.
 
 ---
 
 ### 2. Where are EVs selling the most, and when?  
-![monthly_sales_by_region](visuals/monthly_sales_by_region.png)
+![monthly_sales_by_region](Visuals/Monthly_Sales_By_Region.png)
 
 > North America consistently leads in monthly sales, averaging over 2,700 units from January to May 2023. Asia and Oceania show steady growth, while Europe and South America contribute moderate but stable sales. Peaks in Q2 and Q3 suggest seasonal or promotional effects.
 
 ---
 
 ### 3. Is fast charging influencing revenue? 
-![fast_charging_revenue](visuals/fast_charging_revenue.png)
+![fast_charging_revenue](Visuals/Fast_Charging_Revenue.png)
 
 >Yes, and significantly. Vehicles with fast-charging capability brought in $1.61 billion, compared to $1.00 billion without it. That’s a 61% increase, showing clear market preference for faster, more convenient charging options.
 
 ---
 
 ### 4. Who prefers fast charging?
-![fast_charging_by_segment](visuals/fast_charging_by_segment.png)
+![fast_charging_by_segment](Visuals/Fast_Charging_By_Segment.png)
 
 > Not just tech-savvy or high-income customers. Surprisingly, budget-conscious buyers made over 16,000 fast-charging EV purchases, slightly more than Tech Enthusiasts. This suggests fast charging is becoming an expected standard not just a premium add-on.
 
 ---
 
 ### 5. Are discounts driving more sales?
-![discount_vs_units_sold](visuals/discount_vs_units_sold.png)
+![discount_vs_units_sold](Visuals/Discount_vs_Units_Sold.png)
 
 > Not really. The highest sales occurred with discounts of just 0–5% (34,900 units). As discounts increased, unit sales dropped — possibly because steep discounts hurt the perceived value of the vehicle. Customers seem to care more about quality and features than just getting a deal.
 
