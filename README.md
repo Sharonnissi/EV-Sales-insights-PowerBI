@@ -33,7 +33,7 @@ Overall, the data shows that successful EV strategies depend on understanding wh
 ##  Visualizations & Insights
 
 ### 1. Which EV types are selling the most?
-![brand_vs_vehicle_type](Visuals/Brand_vs_Vehicle_Type.png)
+![brand_vs_vehicle_type](Visuals/Brand vs Vehicle Type.png)
 
 > Hatchbacks top the list, with over 39,000 units sold — followed by Trucks (26,600) and SUVs (17,800). Brands like Hyundai and Toyota lead in hatchback and SUV sales. Coupes and sedans have more limited appeal, suggesting niche market interest.
 
